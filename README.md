@@ -1,3 +1,3 @@
-# Azure Devops
+# IT Administrator
 
-**Skill**
+## Technical Skill : Server, Network, Vritualization, Cloud, CCTV ##
