@@ -1,3 +1,3 @@
 # IT Administrator
 
-## Technical Skill : Server, Network, Vritualization, Cloud, CCTV ##
+### Technical Skill : Server, Network, Vritualization, Cloud, CCTV ###
