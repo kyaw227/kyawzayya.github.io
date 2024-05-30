@@ -15,3 +15,8 @@
 - Led a team installation of Active Directory, DNS, WDS Server and configuration of GPO for trading companies.
 - Led a team installation and configuration of 801.1x Secure Wireless, RADIUS Server, Wireless APs and Wireless Controller for private University.
 - Collaborated with the IT department cross-functional teams to execute installing of NAS, CCTV and Cloud Infrastructure for Government projects.
+
+## Projects ##
+### WH Hotel & Services Apartment Wireless Netork Project ###
+- Installing of Wireless Network and Hotspot Server.
+- Mirkotik, Ubiquities, VLAN,
