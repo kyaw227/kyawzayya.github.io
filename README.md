@@ -19,15 +19,22 @@
 ## Projects ##
 ### WH Hotel & Services Apartment Wireless Netork Project ###
 - Installing of Wireless Network and Hotspot Server.
-- Mirkotik, Ubiquities, VLAN,
+- Mirkotik, Ubiquities,
+- VLAN, DHCP
 
 ![WH Hotel Project](/assets/img/001.png)
 
 ### Bagan May Hotel Project ###
 - Installing of Wireless and Network Policy Server
-- Mikrotik, Ubiquities
+- Mikrotik, Ubiquities,
+- VLAN, Hotspot Server, Secure Wireless, DHCP
 
 ![Bagan Project](/assets/img/002.png)
+
+### Goverment IT Project ###
+- Configuration and Maintenance
+- Dell, HP
+- Microsoft Server, Active Directory, Gpolicy Object, File Server,
 
 
 
