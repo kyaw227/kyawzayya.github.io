@@ -27,4 +27,7 @@
 - Installing of Wireless and Network Policy Server
 - Mikrotik, Ubiquities
 
+![Bagan Project](/assets/img/002.png)
+
+
 
