@@ -20,4 +20,6 @@
 ### WH Hotel & Services Apartment Wireless Netork Project ###
 - Installing of Wireless Network and Hotspot Server.
 - Mirkotik, Ubiquities, VLAN,
+
 ![WH Hotel Project](/assets/img/001.png)
+
