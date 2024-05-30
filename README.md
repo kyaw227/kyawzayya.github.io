@@ -10,7 +10,6 @@
 - Participated with a team migration of Active Directory and installing of Backup Domain Controller for Infrastructure of banking network infrastructure.
 
 #### IT Administrator @ YOONWATI IT Company July 2016 - May 2024 ####
-
 - Implemented Multi WAN Load balancing and VPN Service (Site to Site, Remote Access, VLAN) for Logistics Company.
 - Led a team installation of Active Directory, DNS, WDS Server and configuration of GPO for trading companies.
 - Led a team installation and configuration of 801.1x Secure Wireless, RADIUS Server, Wireless APs and Wireless Controller for private University.
@@ -51,3 +50,13 @@
 
 ![CCTV Project](/assets/img/005.png)
 
+## CERTIFICATION ##
+
+- CSCU: EC Council Certified Secure Computer User.
+- MCP: Microsoft Certified Professional.
+- MCSA: Windows Server 2012.
+- MCSE: Microsoft® Certified Solutions Expert: Cloud Platform and Infrastructure Charter Member.
+- MCSE: Microsoft® Certified Solutions Expert: Cloud Platform and Infrastructure.
+- Microsoft Azure Fundamentals.
+- Microsoft Azure Administrator Associate.
+- MCT: Microsoft Certified Trainer.
