@@ -23,3 +23,8 @@
 
 ![WH Hotel Project](/assets/img/001.png)
 
+### Bagan May Hotel Project ###
+- Installing of Wireless and Network Policy Server
+- Mikrotik, Ubiquities
+
+
