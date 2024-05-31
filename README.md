@@ -50,6 +50,13 @@
 
 ![CCTV Project](/assets/img/005.png)
 
+### Compputer Monthly Services ###
+- Monthly Service
+- Private office, Goverment Department, School
+- Desktop, Laptop, Printer, Scanner, Network
+
+![Monthly Services](/assets/img/006.img)
+
 ## CERTIFICATION ##
 
 - CSCU: EC Council Certified Secure Computer User.
