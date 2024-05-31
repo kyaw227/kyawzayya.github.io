@@ -55,7 +55,7 @@
 - Private office, Goverment Department, School
 - Desktop, Laptop, Printer, Scanner, Network
 
-![Monthly Services](/assets/img/006.img)
+![Monthly Services](/assets/img/006.png)
 
 ## CERTIFICATION ##
 
