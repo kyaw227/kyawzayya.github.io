@@ -30,14 +30,14 @@
 
 ![Bagan Project](/assets/img/002.png)
 
-### Goverment IT Project ###
+### Government IT Project ###
 - Configuration and Maintenance
 - Dell, HP
 - Microsoft Server, Active Directory, Gpolicy Object, File Server,
 
 ![Goverment IT Project](/assets/img/003.png)
 
-### Goverment Network Project ###
+### Government Network Project ###
 - Migration and Configuration.
 - Dell, Cisco, FortiGate
 - AD Migration, RODC, VPN, Cisco Wireless,
@@ -50,9 +50,9 @@
 
 ![CCTV Project](/assets/img/005.png)
 
-### Compputer Monthly Services ###
+### Computer Monthly Services ###
 - Monthly Service
-- Private office, Goverment Department, School
+- Private office, Government Department, School
 - Desktop, Laptop, Printer, Scanner, Network
 
 ![Monthly Services](/assets/img/006.png)
@@ -67,3 +67,8 @@
 - Microsoft Azure Fundamentals.
 - Microsoft Azure Administrator Associate.
 - MCT: Microsoft Certified Trainer.
+
+## Language ##
+
+Myanmar (Native)
+English (Intermediate)
