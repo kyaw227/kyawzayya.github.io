@@ -16,16 +16,16 @@
 - Collaborated with the IT department cross-functional teams to execute installing of NAS, CCTV and Cloud Infrastructure for Government projects.
 
 ## Projects ##
-### WH Hotel & Services Apartment Wireless Netork Project ###
+### WH Hotel & Services Apartment Wireless Network Project ###
 - Installing of Wireless Network and Hotspot Server.
-- Mirkotik, Ubiquities,
+- MikroTik, Ubiquities,
 - VLAN, DHCP
 
 ![WH Hotel Project](/assets/img/001.png)
 
 ### Bagan May Hotel Project ###
 - Installing of Wireless and Network Policy Server
-- Mikrotik, Ubiquities,
+- MikroTik, Ubiquities,
 - VLAN, Hotspot Server, Secure Wireless, DHCP
 
 ![Bagan Project](/assets/img/002.png)
@@ -33,7 +33,7 @@
 ### Government IT Project ###
 - Configuration and Maintenance
 - Dell, HP
-- Microsoft Server, Active Directory, Gpolicy Object, File Server,
+- Microsoft Server, Active Directory, Group policy Object, File Server,
 
 ![Goverment IT Project](/assets/img/003.png)
 
@@ -51,7 +51,7 @@
 ![CCTV Project](/assets/img/005.png)
 
 ### Computer Monthly Services ###
-- Monthly Service
+- Monthly Services
 - Private office, Government Department, School
 - Desktop, Laptop, Printer, Scanner, Network
 
@@ -70,5 +70,5 @@
 
 ## Language ##
 
-Myanmar (Native)
-English (Intermediate)
+- Myanmar (Native)
+- English (Intermediate)
