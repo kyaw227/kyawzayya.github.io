@@ -3,7 +3,7 @@
 ### Technical Skill : Server, Network, Vritualization, Cloud, CCTV ###
 
 ## Experience ##
-#### IT Technician @ MCC IT and Education Services (_June 2006 - April 2016_) ####
+#### IT Technician @ MCC IT and Education Services (_June 2012 - April 2016_) ####
 - Led a team of 10+ IT Technician to Installation Computer Hardware, Printer, and LAN Network for a trading company with over 70 users.
 - Led a team installation of Wireless Network, DHCP and Network Policies Server for private school with over 500 users.
 - Managed a team 7+ IT Technician to Installing File Server, Print Server and DHCP Server for Logistics Company.
