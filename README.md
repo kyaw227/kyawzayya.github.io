@@ -3,13 +3,13 @@
 ### Technical Skill : Server, Network, Vritualization, Cloud, CCTV ###
 
 ## Experience ##
-#### IT Technician @ MCC IT and Education Services (_June 2012 - April 2016_) ####
+#### IT Technician @ MCC IT and Education Services (_June 2015 - April 2019_) ####
 - Led a team of 10+ IT Technician to Installation Computer Hardware, Printer, and LAN Network for a trading company with over 70 users.
 - Led a team installation of Wireless Network, DHCP and Network Policies Server for private school with over 500 users.
 - Managed a team 7+ IT Technician to Installing File Server, Print Server and DHCP Server for Logistics Company.
 - Participated with a team migration of Active Directory and installing of Backup Domain Controller for Infrastructure of banking network infrastructure.
 
-#### IT Administrator @ YOONWATI IT Company (_July 2016 - May 2024_) ####
+#### IT Administrator @ YOONWATI IT Company (_July 2019 - May 2024_) ####
 - Implemented Multi WAN Load balancing and VPN Service (Site to Site, Remote Access, VLAN) for Logistics Company.
 - Led a team installation of Active Directory, DNS, WDS Server and configuration of GPO for trading companies.
 - Led a team installation and configuration of 801.1x Secure Wireless, RADIUS Server, Wireless APs and Wireless Controller for private University.
